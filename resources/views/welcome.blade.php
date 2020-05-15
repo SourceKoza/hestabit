@@ -86,7 +86,7 @@
 
                 <div class="links">
                 <div class="text-center">
-                    <a href="https://laravel.com/docs">Test</a>
+                    <a href="{{route('get-user-data')}}">Machine-Test</a>
                    
                 </div>
                 </div>
